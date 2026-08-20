@@ -1,6 +1,6 @@
 # Avengers: Doomsday - Live Countdown Wallpaper
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yasithbuddhima/Doomsday-Wallpaper&count_bg=%234ADE80&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://komarev.com/ghpvc/?username=yasithbuddhima-doomsday-wallpaper&color=4ade80&style=flat-square&label=DOOMSDAY+WAITLIST)
 
 _"The universe requires correction... but first, we wait."_
 
